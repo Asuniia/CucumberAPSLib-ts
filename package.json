@@ -1,0 +1,21 @@
+{
+  "name": "cucumberapslib-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev":"ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "Asuniia",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
